@@ -1,4 +1,4 @@
-Bu program çalışmak için veri tabanına ve aşağıdaki projeler ihtiyaç duyar:
+Bu program çalışmak için veri tabanına ve aşağıdaki projelere ihtiyaç duyar:
 
 HKTS-Vezne: https://github.com/HarunBulbull/HKTS-Vezne/tree/master
 
